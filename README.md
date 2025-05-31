@@ -1,7 +1,7 @@
-Program Title: Merge Sort Practice
-Author: Ram David M. Brodett
-File Name: MERGE_SORT_PRAC.cpp
-Entry Point: main() function located in MERGE_SORT_PRAC.cpp
+Program Title: Merge Sort Practice  
+Author: Ram David M. Brodett  
+File Name: MERGE_SORT_PRAC.cpp  
+Entry Point: main() function located in MERGE_SORT_PRAC.cpp  
 
 Description:
 -------------
